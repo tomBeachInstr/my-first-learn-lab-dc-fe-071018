@@ -21,8 +21,10 @@ of the lab for you to work on. Once you've opened up your development
 environment, follow the steps below:
 
 1. In your terminal, type `learn` and press enter
+
 2. Read the messages that appear in the terminal.
 3. Make adjustments to your code based on the messages you've received
+
 4. Run `learn` again to see if progress has been made
 5. Repeat steps 2 through 3 until all tests pass (sometimes referred to as being _green_)
 6. Once all tests pass, run `learn submit` to submit your code
